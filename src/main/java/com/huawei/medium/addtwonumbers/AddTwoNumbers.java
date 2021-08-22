@@ -1,4 +1,4 @@
-package com.huawei;
+package com.huawei.medium.addtwonumbers;
 
 public class AddTwoNumbers {
 
